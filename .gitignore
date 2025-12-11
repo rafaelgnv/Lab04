@@ -1,4 +1,4 @@
-target/
+git commit -m "Primeiro commit: Estrutura do projeto e classes de modelo"target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
